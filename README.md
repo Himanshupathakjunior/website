@@ -2,12 +2,20 @@
 
 Requirement:
 flask
+
 Flask-SQLAlchemy
+
 flask-login
 
+
+
 .vscode
+
 website/__pycache__
+
 website/database.db
+
+
 
 HTML
 JS
